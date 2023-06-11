@@ -14,7 +14,7 @@ The purpose of this project is to assist the microbiology lab that partnered wit
 
 ---
 
-<!-- ## Summary
+<!-- ## Summary -->
 
 
 ---
@@ -23,4 +23,4 @@ Contacts
 Email: show.wang94@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/s-k-wang](https://www.linkedin.com/in/s-k-wang)
--->
+
