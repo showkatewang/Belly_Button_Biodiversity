@@ -15,16 +15,21 @@ Data Source:
 - 
 
 Tools:
-- 
+- JS ES6+
+- JS Library Plotly and Math
+- Chrome Browser
+- Windows Git Bash
+- VSCode
 
 ---
 
-<!-- ## Summary -->
+<!-- ## Summary 
 
 
----
+--- -->
 
 Contacts 
+
 Email: show.wang94@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/s-k-wang](https://www.linkedin.com/in/s-k-wang)
