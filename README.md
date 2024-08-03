@@ -15,11 +15,12 @@ Data Source:
 - 
 
 Tools:
-- JS ES6+
-- JS Library Plotly and Math
-- Chrome Browser
-- Windows Git Bash
-- VSCode
+- JavaScript (JS ES6+)
+- JS Library Plotly.js and Math
+- Hypertext Markup Language (HTML)
+- Chrome Web Browser
+- Command-line interface (Windows Git Bash)
+- Visual Studio Code (VSCode)
 
 ---
 
